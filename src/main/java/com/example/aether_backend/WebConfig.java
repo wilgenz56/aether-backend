@@ -1,4 +1,4 @@
-package com.esempio.aether;
+package com.example.aether_backend;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
