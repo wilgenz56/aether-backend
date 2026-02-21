@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
-@CrossOrigin(origins = "*") // Consente le richieste da localhost:5173
 public class NameController {
 
     @Autowired
@@ -49,3 +48,4 @@ public class NameController {
     
     
 }
+
